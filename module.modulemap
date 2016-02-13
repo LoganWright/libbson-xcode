@@ -1,0 +1,4 @@
+module bson {
+    header "Source/bson.h"
+    export *
+}
